@@ -7,6 +7,7 @@ src="images/Hi.gif" height="35" /></h1>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-45b8d8?style=flat-square&logo=django&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-45b8d8?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Scrapy" src="https://img.shields.io/badge/-Scrapy-45b8d8?style=flat-square&logo=scrapy&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=webpack&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?style=flat-square&logo=webpack&logoColor=white"/>
