@@ -27,12 +27,9 @@ src="images/Hi.gif" height="35" /></h1>
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=webpack&logoColor=white"/>
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   
-
   <hr>
  
 </p>
-
-<hr>
 
 <div align="center"> 
 <img src="images/octocat.png" height="500" />
