@@ -29,17 +29,7 @@ src="images/Hi.gif" height="35" /></h1>
   
 
   <hr>
-  <div align="center">
-
-  ![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=anthony-e-cruz)
-  
-  </div>
-  <hr>
-  <div align="center">
-
-   ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-e-cruz&theme=blue-green)
-  
-  </div>
+ 
 </p>
 
 <hr>
