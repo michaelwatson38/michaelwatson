@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/robertvaugh" target="_blank">Robert</a> <img
 src="images/Hi.gif" height="35" /></h1>
-<p align="center">A Full-Stack Developer in New Jersey</p>
+<p align="center">A Full-Stack Developer in North Carolina</p>
 <hr>
 <p align="center" style="font-size:25px">Things I Code With</p>
 <p align="center">
