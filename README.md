@@ -30,6 +30,8 @@ src="images/Hi.gif" height="35" /></h1>
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=webpack&logoColor=white"/>
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="ML" src="[https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white](https://cdn-icons-png.flaticon.com/512/2103/2103611.png)" />
+  <img alt="AI" src="[https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white](https://cdn-icons-png.flaticon.com/512/5845/5845968.png)" />
   
   <hr>
  
@@ -38,13 +40,3 @@ src="images/Hi.gif" height="35" /></h1>
 <div align="center"> 
 <img src="images/octocat.png" height="500" />
 </div>
-
-<hr>
-
-<h2 align="center">📫  Reach Me</h2>
-<p align="center">
-  <a target="_blank"href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href=""><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:robertvaughn456@gmail.com?subject=Hello%20Anthony,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<hr>
