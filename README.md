@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/robertvaugh" target="_blank">Michael</a> <img
+<h1 align="center">Hi there, I'm <a href="https://github.com/michaelwatson38" target="_blank">Michael</a> <img
 src="images/Hi.gif" height="35" /></h1>
 <p align="center">A Full-Stack Developer in California</p>
 <hr>
@@ -30,8 +30,8 @@ src="images/Hi.gif" height="35" /></h1>
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=webpack&logoColor=white"/>
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="ML" src="[https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white](https://cdn-icons-png.flaticon.com/512/2103/2103611.png)" />
-  <img alt="AI" src="[https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white](https://cdn-icons-png.flaticon.com/512/5845/5845968.png)" />
+  <img alt="ML" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="AI" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   
   <hr>
  
