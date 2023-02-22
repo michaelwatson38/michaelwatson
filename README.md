@@ -30,8 +30,8 @@ src="images/Hi.gif" height="35" /></h1>
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=webpack&logoColor=white"/>
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="AI" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="ML" src="https://www.flaticon.com/free-icon/machine-learning_2103650?term=machine+learning&related_id=2103650" />
+  <img alt="AI" src="https://www.flaticon.com/free-icon/shield_5846016?related_id=5845968&origin=search" />
   
   <hr>
  
